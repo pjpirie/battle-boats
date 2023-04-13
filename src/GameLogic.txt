@@ -1,0 +1,32 @@
+Menu
+  UI
+
+
+
+Lobby
+  UI
+
+
+
+Game
+  TYPES
+    DUEL
+    AI
+  Stages
+    Setup - Place ships
+    Attack Out - Make attack on enemy
+    Attack In - Confirm enemy hit/miss
+    Build - Place mines
+  UI
+    Board - 10x10
+  Pieces
+    1 Carrier - Size: 5
+    1 Battleship - Size: 4
+    1 Destroyer - Size: 3
+    2 Submarines - Size: 3
+    2 Patrol Boats - Size: 2
+
+
+
+End
+  UI
